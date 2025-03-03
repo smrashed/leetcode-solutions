@@ -1,5 +1,5 @@
 //naive approach
-//time complexity O(n^2)
+//time complexity O(n*m)
 
 class Solution
 {
