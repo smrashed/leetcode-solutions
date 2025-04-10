@@ -3,7 +3,7 @@ class Solution
 public:
     bool isValid(string s)
     {
-        stack<int> stk;
+        stack<char> stk;
 
         for (int i = 0; i < s.size(); i++)
         {
